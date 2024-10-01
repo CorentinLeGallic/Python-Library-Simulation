@@ -1,1 +1,5 @@
-To start the Python Script, execute the main.py file.
+## How to start the script ? ##
+
+* Download the code
+* Download Python
+* Execute the main.py file
